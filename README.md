@@ -1,11 +1,11 @@
-### Hi, I'm Matthew 👋
+### Hi, I'm Matt
 
-I build software at the edge where research meets product: machine learning for **fusion energy**, apps for **Apple platforms**, and lately a lot of time thinking about how **AI coding agents** succeed and fail.
+I love to explore the frontier, which in software is at the edge of research and product: machine learning for fusion energy, apps for Apple platforms, and lately a lot of time working on agentic coding.
 
-- 🔬 **ML tech lead at [Sophelio](https://github.com/Sophelio)**: [dFL](https://github.com/Sophelio/dFL), a data harmonization and labeling platform that made fusion data analysis 50X+ faster at General Atomics; NSTXplorer, an LLM research assistant for Princeton Plasma Physics Lab
-- ⚡ **Contributor to [keras2c](https://github.com/PlasmaControl/keras2c)**: neural networks compiled to C99, running inside the DIII-D tokamak's real-time plasma control system
-- 📱 **Founder of [Cephalopod Studio](https://cephalopod.studio)**: App Store apps for iPhone, iPad, Mac, Apple Watch, and Vision Pro, with on-device LLMs, LiDAR photogrammetry, and an app featured by Apple
-- 🤖 **Robotics hobbyist**: self-built SO-100 arms, teleoperation, and VLA fine-tuning with LeRobot
+- **ML tech lead at [Sophelio](https://github.com/Sophelio)**: [dFL](https://github.com/Sophelio/dFL), a data harmonization and labeling platform that made fusion data analysis 50X+ faster at General Atomics; NSTXplorer, an LLM research assistant for Princeton Plasma Physics Lab
+- **Contributor to [keras2c](https://github.com/PlasmaControl/keras2c)**: neural networks compiled to C99, running inside the DIII-D tokamak's real-time plasma control system
+- **Founder of [Cephalopod Studio](https://cephalopod.studio)**: App Store apps for iPhone, iPad, Mac, Apple Watch, and Vision Pro, with on-device LLMs, LiDAR photogrammetry, and an app featured by Apple
+- **Robotics hobbyist**: self-built SO-100 arms, teleoperation, and VLA fine-tuning with LeRobot
 
 Previously: Apple, Expedia/Hotwire, Phunware.
 
